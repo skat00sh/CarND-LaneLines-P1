@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
-My pipeline consisted of 5 steps. 
+My pipeline consisted of 3 steps. 
 
 1. First step was to detect edges in the whole image using canny image detection. Canny Edge Detection works in 3 steps braoadly: 
   
