@@ -15,8 +15,11 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
-
+[gray]: ./examples/gray.png "Grayscale"
+[blur]: ./examples/blur.png "Gaussian Blurred Image"
+[edge]: ./examples/edge_detected.png "Canny Edge Detection Result"
+[hough1]: ./examples/line-segments-example.jpg "Hough Lines Basic Result"
+[hough2]: ./examples/laneLines_thirdPass.jpg "Hough Lines extrapolated"
 ---
 
 ### Reflection
@@ -29,7 +32,11 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![alt text][image1]
+![alt text][gray]
+![alt text][blur]
+![alt text][edge]
+![alt text][hough1]
+![alt text][hough2]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
