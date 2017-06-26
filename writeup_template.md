@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[gray]: ./examples/gray.png "Grayscale"
+[image1]: ./examples/gray.png "Grayscale"
 [blur]: ./examples/blur.png "Gaussian Blurred Image"
 [edge]: ./examples/edge_detected.png "Canny Edge Detection Result"
 [hough1]: ./examples/line-segments-example.jpg "Hough Lines Basic Result"
@@ -32,7 +32,8 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![alt text][gray]
+![ ] (https://github.com/skat00sh/CarND-LaneLines-P1/blob/dev_P1/examples/blur.png)
+
 ![alt text][blur]
 ![alt text][edge]
 ![alt text][hough1]
